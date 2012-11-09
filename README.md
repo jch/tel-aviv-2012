@@ -17,3 +17,4 @@ Stuff about the trip
 * [Jaffa](http://wikitravel.org/en/Tel_Aviv/Jaffa) right off the beach, great walking area, some seafood restaurants
 * [Sea of Galilee](http://wikitravel.org/en/Sea_of_Galilee) - jesus had a boat here!
 * [Jerusalem](http://wikitravel.org/en/Jerusalem) tons of historical sites, old city
+* [Ali Karavan](http://www.telavivguide.net/Restaurants/Israeli_Cuisine_Restaurants/Abu-Hassan_(Ali-Karavan)_2005090813/) apparently really great Arab hummus place.
