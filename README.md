@@ -18,3 +18,4 @@ Stuff about the trip
 * [Sea of Galilee](http://wikitravel.org/en/Sea_of_Galilee) - jesus had a boat here!
 * [Jerusalem](http://wikitravel.org/en/Jerusalem) tons of historical sites, old city
 * [Ali Karavan](http://www.tripadvisor.com/Restaurant_Review-g293984-d803562-Reviews-Abu_Hasan_Ali_Karavan-Tel_Aviv.html) apparently really great Arab hummus place.
+* [Radio EPGB](http://radioepgb.com/) underground rock bar
